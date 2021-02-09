@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Ashish Bende</title>
+    <link>https://ashishbende.com/blog/</link>
+    <description>Recent content in Blogs on Ashish Bende</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Feb 2021 22:42:29 -0600</lastBuildDate><atom:link href="https://ashishbende.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rackspace</title>
+      <link>https://ashishbende.com/blog/rackspace/</link>
+      <pubDate>Mon, 08 Feb 2021 22:42:29 -0600</pubDate>
+      
+      <guid>https://ashishbende.com/blog/rackspace/</guid>
+      <description>Summer internship at Rackspace I was an intern at Rackspace during summer 2016. In a short span developed an end-to-end data connector for managed MongoDB/Elasticsearch ecosystem.
+A data connector which consumes real-time Twitter feeds and store it in either MongoDB or Elasticsearch instance. Also coded a pre-defined Kibana dashboard template, and POC product tour to enhance user experience.
+Project details:Twitter-to-Elasticsearch connector
+Tech Stack: Python, GO, Docker, Apache Mesos/Marathon</description>
+    </item>
+    
+  </channel>
+</rss>

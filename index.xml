@@ -5,14 +5,18 @@
     <link>https://ashishbende.com/</link>
     <description>Recent content in Home on Ashish Bende</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://ashishbende.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Feb 2021 22:42:29 -0600</lastBuildDate><atom:link href="https://ashishbende.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Blog</title>
-      <link>https://ashishbende.com/blog/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Rackspace</title>
+      <link>https://ashishbende.com/blog/rackspace/</link>
+      <pubDate>Mon, 08 Feb 2021 22:42:29 -0600</pubDate>
       
-      <guid>https://ashishbende.com/blog/</guid>
-      <description>This section will be updated soon. Nothing here at this time :( </description>
+      <guid>https://ashishbende.com/blog/rackspace/</guid>
+      <description>Summer internship at Rackspace I was an intern at Rackspace during summer 2016. In a short span developed an end-to-end data connector for managed MongoDB/Elasticsearch ecosystem.
+A data connector which consumes real-time Twitter feeds and store it in either MongoDB or Elasticsearch instance. Also coded a pre-defined Kibana dashboard template, and POC product tour to enhance user experience.
+Project details:Twitter-to-Elasticsearch connector
+Tech Stack: Python, GO, Docker, Apache Mesos/Marathon</description>
     </item>
     
     <item>
@@ -25,26 +29,15 @@
     </item>
     
     <item>
-      <title>Home</title>
-      <link>https://ashishbende.com/_index-copy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ashishbende.com/_index-copy/</guid>
-      <description>About Me  This is a Hugo based resume template. You can find the full source code on GitHub.
-Research Interest Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis1. Mauris id urna ante.
-Fusce pharetra diam ac nisi aliquet, velegestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit2. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.</description>
-    </item>
-    
-    <item>
       <title>Projects</title>
       <link>https://ashishbende.com/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ashishbende.com/projects/</guid>
       <description>Fujitsu Virtuora-NC
- Rackspace Internship project Twitter-to-Elasticsearch Dataconnector
- Personal Projects Traffic simulation
-2D video games  tic-tac-toe flappy bird clone snakes ping-pong  </description>
+ Rackspace Internship Twitter-to-Elasticsearch Dataconnector
+ Personal Projects Simulations  Traffic simulation Battle Tank  2D video games  tic-tac-toe flappy bird clone snakes ping-pong  Distributed Systems Overlay Network 
+Robotics  Robo Kinematics Home Service Robot Map my world Robot localization Rover  </description>
     </item>
     
   </channel>
