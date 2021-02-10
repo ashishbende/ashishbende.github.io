@@ -13,10 +13,8 @@
       <pubDate>Mon, 08 Feb 2021 22:42:29 -0600</pubDate>
       
       <guid>https://ashishbende.com/blog/rackspace/</guid>
-      <description>Summer internship at Rackspace I was an intern at Rackspace during summer 2016. In a short span developed an end-to-end data connector for managed MongoDB/Elasticsearch ecosystem.
-A data connector which consumes real-time Twitter feeds and store it in either MongoDB or Elasticsearch instance. Also coded a pre-defined Kibana dashboard template, and POC product tour to enhance user experience.
-Project details:Twitter-to-Elasticsearch connector
-Tech Stack: Python, GO, Docker, Apache Mesos/Marathon</description>
+      <description>Rackspace Summer Internship I was an intern at Rackspace during the summer&#39;16. I worked with the ObjectRocket team, a relatively small but dedicated team. I was tasked to develop an end-to-end data connector project for managed database service (MongoDB/Elasticsearch). A bit intermediating at the beginning, but I thoroughly enjoyed working on this feature.
+In a short span, I developed the connector which would consume real-time Twitter feeds and store them in either MongoDB or Elasticsearch instance.</description>
     </item>
     
     <item>
@@ -25,9 +23,8 @@ Tech Stack: Python, GO, Docker, Apache Mesos/Marathon</description>
       <pubDate>Mon, 08 Feb 2021 22:42:22 -0600</pubDate>
       
       <guid>https://ashishbende.com/blog/fujitsu/</guid>
-      <description>Fujitsu Network Communications At Fujitsu, I&amp;rsquo;m contributing to an OpenDaylight based SDN (Software-defined networking) controller project - Virtuora-NC
-Virtuora NC Topology: A module that discovers physical network inventory and builds topology representation. Developing a physical topology visualization feature across different abstraction layers to pinpoint exact network alarm events..
-MLPCE: A path computation engine responsible to create a service route across network resources. Implemented various constraint based path calculation features. Extended controller capability by modeling a set of new network entities.</description>
+      <description>Fujitsu Network Communications At Fujitsu, I&amp;rsquo;m contributing to Virtuora-NC - an OpenDaylight based SDN controller. Over the years, I worked on different projects. Starting with the NorthBound, followed by MLPCE (where I spent most of my time) and, most recently, the Topology project.
+Virtuora NC  Topology:  A module that discovers physical network inventory and builds topology representation. Developing a physical topology visualization feature across different abstraction layers to pinpoint exact network alarm events.</description>
     </item>
     
   </channel>
